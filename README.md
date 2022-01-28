@@ -13,9 +13,9 @@ Meetecho: https://meetings.conf.meetecho.com/interim/?short=bc26dc6f-3898-4715-9
 
 ## Materials
 
-Slides: TBD
+Slides: <https://github.com/t2trg/2022-03-summary/>
 
-Notes: TBD
+Notes: <https://codimd.ietf.org/notes-ietf-interim-2022-t2trg-01-t2trg>
 
 ## Draft agenda
 
@@ -23,7 +23,7 @@ Please contact the [chairs][] for any changes required.
 
 | Time (UTC) | Who                 | Subject                                            | Docs                                        |
 |------------|---------------------|----------------------------------------------------|---------------------------------------------|
-|      15:00 | Chairs              | Intro, RG status, upcoming meetings and activities | [draft-irtf-t2trg-rest-iot][restiot] [draft-irtf-t2trg-iot-edge][iot-edge]      |
+|      15:00 | Chairs              | Intro, RG status, upcoming meetings and activities | [draft-irtf-t2trg-rest-iot][restiot]<br> [draft-irtf-t2trg-iot-edge][iot-edge]  |
 |      15:10 | Chairs              | Reports from [WISHI][] and other activities        |                                             |
 |      15:20 | Göran Selander      | SECCORE: A new T2TRG activity                      |                                             |
 |      15:40 | Sávyo Morais        | A Security Extension for RFC 8520 to Give Fast Response to New Vulnerabilities on Domestic IoT Networks (research talk)|
