@@ -26,9 +26,10 @@ Please contact the [chairs][] for any changes required.
 |      15:00 | Chairs              | Intro, RG status, upcoming meetings and activities | [draft-irtf-t2trg-rest-iot][restiot]<br> [draft-irtf-t2trg-iot-edge][iot-edge]  |
 |      15:10 | Chairs              | Reports from [WISHI][] and other activities        |                                             |
 |      15:20 | Göran Selander      | SECCORE: A new T2TRG activity                      |                                             |
-|      15:40 | Sávyo Morais        | A Security Extension for RFC 8520 to Give Fast Response to New Vulnerabilities on Domestic IoT Networks (research talk)|
-|      16:10 | Michael McCool      | W3C WoT update                                     |                                             |
-|      16:30 | Michael Koster      | OneDM update, iotschema.org                        |                                             |
+|            | John Mattsson       | Amplification attacks                              | [draft-mattsson-t2trg-amplification-attacks-00][a-attacks] |
+|      15:50 | Sávyo Morais        | A Security Extension for RFC 8520 to Give Fast Response to New Vulnerabilities on Domestic IoT Networks (research talk)|
+|      16:20 | Michael McCool      | W3C WoT update                                     |                                             |
+|      16:35 | Michael Koster      | OneDM update, iotschema.org                        |                                             |
 |      16:50 |                     | Flextime                                           |                                             |
 |      16:55 | Chairs              | Wrap-up                                            |                                             |
 |      17:00 | Chairs              | end of meeting                                     |                                             |
@@ -41,3 +42,4 @@ Please contact the [chairs][] for any changes required.
 [iot-edge]: https://datatracker.ietf.org/doc/html/draft-irtf-t2trg-iot-edge-04
 [sec]: https://datatracker.ietf.org/doc/html/draft-irtf-t2trg-secure-bootstrapping-01
 [idev]: https://datatracker.ietf.org/doc/html/draft-richardson-t2trg-idevid-considerations-03
+[a-attacks]: https://www.ietf.org/archive/id/draft-mattsson-t2trg-amplification-attacks-00.html
