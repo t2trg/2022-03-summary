@@ -26,7 +26,7 @@ Please contact the [chairs][] for any changes required.
 |------------|---------------------|----------------------------------------------------|---------------------------------------------|
 |      15:00 | Chairs              | Intro, RG status, upcoming meetings and activities | [draft-irtf-t2trg-rest-iot][restiot]<br> [draft-irtf-t2trg-iot-edge][iot-edge]  |
 |      15:10 | Chairs              | Reports from [WISHI][] and other activities        |                                             |
-|      15:20 | Göran Selander      | SECCORE: A new T2TRG activity                      |                                             |
+|      15:20 | Göran Selander      | Security for Constrained RESTful Environments (SECCORE): A new T2TRG activity                      |                                             |
 |            | John Mattsson       | Amplification attacks                              | [draft-mattsson-t2trg-amplification-attacks-00][a-attacks] |
 |      15:50 | Sávyo Morais        | A Security Extension for RFC 8520 to Give Fast Response to New Vulnerabilities on Domestic IoT Networks (research talk)|
 |      16:20 | Michael McCool      | W3C WoT update                                     |                                             |
