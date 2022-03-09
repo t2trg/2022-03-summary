@@ -14,7 +14,7 @@ Meetecho: https://meetings.conf.meetecho.com/interim/?short=bc26dc6f-3898-4715-9
 
 ## Materials
 
-Slides: <https://github.com/t2trg/2022-03-summary/>
+Slides: <https://github.com/t2trg/2022-03-summary/tree/main/slides>
 
 Notes: <https://codimd.ietf.org/notes-ietf-interim-2022-t2trg-01-t2trg>
 
